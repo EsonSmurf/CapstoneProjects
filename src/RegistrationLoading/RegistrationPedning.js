@@ -23,3 +23,4 @@ const RegistrationPending = ({ onBack }) => (
 );
 
 export default RegistrationPending;
+
